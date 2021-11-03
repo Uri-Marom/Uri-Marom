@@ -4,9 +4,9 @@ Hi, I'm Uri.<BR>
 I'm a Risk Analyst and Data Scientist with 10 years of experience in the FinTech realm,<BR>
 currently working on several environment and climate related projects.
 
-[Check out the Israeli Clean Money Forum ranking of institutional investors](https://www.fossilfree.org.il/the-ranking){:target="_blank"}
+* Check out the [Israeli Clean Money Forum ranking of institutional investors](https://www.fossilfree.org.il/the-ranking)
 
-If you're also interested in using your programming, Data Engineering or other tech skills for a good cause, feel free to drop me a line:<BR>
+If you're also interested in using your programming, data engineering or other tech skills for a good cause, feel free to drop me a line:<BR>
 `uri dot mar at gmail dot com`
 
 <!---
