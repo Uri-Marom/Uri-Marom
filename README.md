@@ -4,8 +4,8 @@ Hi, I'm Uri.<BR>
 I'm a Data Scientist with 10 years of experience in the FinTech realm,<BR>
 currently working on several environment and climate related projects.
 
-* Check out the [Israeli Clean Money Forum ranking of institutional investors](https://www.fossilfree.org.il/the-ranking)
 * [Enva](https://www.enva.co.il/) helps you supercharge your pension savings with ESG values. It's a free service, first of its kind in Israel.
+* Check out the [Israeli Clean Money Forum ranking of institutional investors](https://www.fossilfree.org.il/the-ranking)
 
 If you're also interested in using your programming, data engineering or other tech skills for a good cause, feel free to drop me a line:<BR>
 `uri dot mar at gmail dot com`
